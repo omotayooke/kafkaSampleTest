@@ -1,0 +1,6 @@
+server:
+  port: 8060
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:6667
